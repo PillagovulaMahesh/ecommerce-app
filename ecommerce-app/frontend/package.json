@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for E-commerce application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "react-bootstrap": "^2.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
